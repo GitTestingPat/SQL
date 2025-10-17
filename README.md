@@ -1,6 +1,6 @@
 # 🗄️ SQL Project
 
-![Database Banner](images/database.jpg)  
+![Database Banner](docs/images/database.jpg)  
 *This is a test project to practice and explore SQL fundamentals.*
 
 ---
