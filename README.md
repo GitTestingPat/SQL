@@ -63,7 +63,7 @@ sql-project/
 ## 🤝 Contributing
 
 Found a bug or want to add a feature?  
-Feel free to open an [issue](https://github.com/your-username/sql-project/issues) or submit a [pull request](https://github.com/your-username/sql-project/pulls)!
+Feel free to open an [issue](https://github.com/GitTestingPat/SQL/issues) or submit a [pull request](https://github.com/GitTestingPat/SQL/pulls)!
 
 ---
 
