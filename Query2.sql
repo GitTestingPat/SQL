@@ -18,7 +18,7 @@ CREATE TABLE `user` (
 insert into user (name, edad, email) values ('Oscar', 25, 'oscar@gmail.com');
 insert into user (name, edad, email) values ('Layla', 15, 'layla@gmail.com');
 insert into user (name, edad, email) values ('Nicolas', 36, 'nicolas@gmail.com');
-insert into user (name, edad, email) values ('Chanchito', 7, 'chanchito@gmail.com');
+insert into user (name, edad, email) values ('Bobby', 7, 'bobby@gmail.com');
 
 -- update user set email = 'nico@gmail.com' where id = 3; este comando sirve para modificar una parte de un registro
 

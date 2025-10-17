@@ -1,6 +1,6 @@
-CREATE database holamundo;
+CREATE database helloworld;
 show databases;
-use holamundo;
+use helloworld;
 create table animales (
 	id int,
     tipo varchar(255),
@@ -24,12 +24,12 @@ show create table animales;
   
   insert into animales (tipo, estado) values ('perrito', 'alegre');
   insert into animales (tipo, estado) values ('gatito', 'curioso');
-  insert into animales (tipo, estado) values ('gallinita', 'culeca');
+  insert into animales (tipo, estado) values ('gallinita', 'feliz');
   
   select * from animales;
   select * from animales where id = 1;
   select * from animales where tipo = 'perrito';
-  select * from animales where estado = 'culeca';
+  select * from animales where estado = 'feliz';
   select * from animales where tipo = 'gatito' and estado = 'curioso';
   
   update animales set estado = 'feliz' where id = 6;
