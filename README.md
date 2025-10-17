@@ -1,12 +1,12 @@
-# Proyecto SQL
+# SQL Project
 
-Este es un proyecto de prueba para trabajar con SQL.
+This is a test project for working with SQL.
 
-## Cómo usar el proyecto
-1. Clona el repositorio.
-2. Abre tu herramienta de gestión de bases de datos.
-3. Ejecuta los scripts SQL proporcionados.
+## How to use the project
+1. Clone the repository.
+2. Open your database management tool.
+3. Run the provided SQL scripts.
 
-## Requisitos mínimos
-- Un gestor de bases de datos SQL (MySQL, PostgreSQL, etc.)
-- Conocimientos básicos de SQL.
+## Minimum requirements
+- An SQL database management system (MySQL, PostgreSQL, etc.)
+- Basic SQL knowledge.
